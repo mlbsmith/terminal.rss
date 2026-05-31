@@ -3,13 +3,7 @@
 #include <string.h>
 
 #define MAX_TITLE_LENGTH 256
-
-int main(int argc, char **argv) {
-  if (argc != 2) {
-    fprintf(stderr, "Exactly 2 arguments are required.\n");
-    return 1;
-  }
-  char *file_name = argv[1];
+int extract_title(char *file_name) {
 
   FILE *file = fopen(file_name, "rb");
 
@@ -79,4 +73,14 @@ int main(int argc, char **argv) {
 
   fprintf(stderr, "No title found :( \n");
   return 1;
+}
+int main(int argc, char **argv) {
+
+  if (argc != 2) {
+    fprintf(stderr, "Exactly 2 arguments are required.\n");
+    return 1;
+  }
+  char *file_name = argv[1];
+
+  return extract_title(file_name);
 }
