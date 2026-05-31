@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+<title id="title">Version 1 — Pane Classic: editor</title>
+<desc id="desc">Terminal UI mockup screenshot for A three-pane desktop mail-reader layout: feeds on the left, article list in the middle, preview on the right. Screen: editor.</desc>
+<rect width="1280" height="800" rx="24" fill="#101820"/>
+<rect x="22" y="22" width="1236" height="756" rx="18" fill="none" stroke="#8CA3B8" stroke-width="2" opacity="0.45"/>
+<circle cx="58" cy="43" r="7" fill="#FF5F57"/><circle cx="82" cy="43" r="7" fill="#FFBD2E"/><circle cx="106" cy="43" r="7" fill="#28C840"/>
+<text x="122" y="50" fill="#8CA3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Version 1 — Pane Classic: editor</text>
+<text x="42" y="74" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">terminal.rss  feed editor                                      [Esc] back  [q] quit</text>
+<text x="42" y="100" fill="#8CA3B8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">──────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="42" y="126" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"> FEED SOURCES                                      DETAILS</text>
+<text x="42" y="152" fill="#8CA3B8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"> ────────────                                      ───────</text>
+<text x="42" y="178" fill="#3DDC97" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"> ▶ [x] Systems Weekly                             Name: Systems Weekly</text>
+<text x="42" y="204" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">   URL: file://samples/systems-weekly.xml         URL:  file://samples/systems-weekly.xml</text>
+<text x="42" y="230" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">                                                   Tags: c, systems, parsing</text>
+<text x="42" y="256" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">   [x] Beej&#x27;s C Notes                            Last read: 2026-05-30 19:44 UTC</text>
+<text x="42" y="282" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">   URL: file://samples/beej-c.xml                 Unread: 11</text>
+<text x="42" y="308" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="334" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">   [ ] Example Tech RSS                           ACTIONS</text>
+<text x="42" y="360" fill="#8CA3B8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">   URL: https://example.com/rss.xml               ───────</text>
+<text x="42" y="386" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">                                                  [a] add feed   [r] rename</text>
+<text x="42" y="412" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">                                                  [t] edit tags  [d] disable</text>
+<text x="42" y="438" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">                                                  [x] delete     [v] validate local XML</text>
+<text x="42" y="464" fill="#D6DEE8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="490" fill="#8CA3B8" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">──────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="42" y="516" fill="#3DDC97" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Prompt: What owns this URL string after editing: stack buffer, heap allocation, or static text?</text>
+</svg>

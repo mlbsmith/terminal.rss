@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+<title id="title">Version 3 — Card Console: main</title>
+<desc id="desc">Terminal UI mockup screenshot for A softer dashboard-style terminal UI that groups feeds and articles into bordered cards. Screen: main.</desc>
+<rect width="1280" height="800" rx="24" fill="#171421"/>
+<rect x="22" y="22" width="1236" height="756" rx="18" fill="none" stroke="#B6A6C9" stroke-width="2" opacity="0.45"/>
+<circle cx="58" cy="43" r="7" fill="#FF5F57"/><circle cx="82" cy="43" r="7" fill="#FFBD2E"/><circle cx="106" cy="43" r="7" fill="#28C840"/>
+<text x="122" y="50" fill="#B6A6C9" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Version 3 — Card Console: main</text>
+<text x="42" y="74" fill="#F8F8F2" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"> terminal.rss                                              Sunday, 31 May 2026</text>
+<text x="42" y="100" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╔══════════════════════╗ ╔════════════════════════════╗ ╔══════════════════════════╗</text>
+<text x="42" y="126" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ Inbox                ║ ║ Today                      ║ ║ Reading Queue            ║</text>
+<text x="42" y="152" fill="#FFB86C" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ 23 unread            ║ ║ ● SQLite 3.51 release      ║ ║ 1. Tiny XML parser notes ║</text>
+<text x="42" y="178" fill="#FFB86C" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ 5 feeds              ║ ║ ● Files, fgets, and EOF    ║ ║ 2. RSS guid semantics    ║</text>
+<text x="42" y="204" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ Last refresh: local  ║ ║ ○ Terminal dashboards      ║ ║ 3. Curl later, files now ║</text>
+<text x="42" y="230" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╚══════════════════════╝ ╚════════════════════════════╝ ╚══════════════════════════╝</text>
+<text x="42" y="256" fill="#F8F8F2" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="282" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╔════════════════════════════════════════════════════════════════════════════════════╗</text>
+<text x="42" y="308" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ Focus feed: Systems Weekly                                                       ║</text>
+<text x="42" y="334" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ [████████████░░░░] 11 unread   Tags: c systems parsing   Source: local fixture   ║</text>
+<text x="42" y="360" fill="#FFB86C" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ Next useful action: open a saved XML file and print titles before adding network. ║</text>
+<text x="42" y="386" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╚════════════════════════════════════════════════════════════════════════════════════╝</text>
+<text x="42" y="412" fill="#F8F8F2" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="438" fill="#F8F8F2" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Keys: Tab switch cards · Enter open · e edit feeds · ? explain this screen · q quit</text>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+<title id="title">Version 2 — Command Deck: main</title>
+<desc id="desc">Terminal UI mockup screenshot for A keyboard-first layout with a command/search bar and compact, high-density lists. Screen: main.</desc>
+<rect width="1280" height="800" rx="24" fill="#0B0F14"/>
+<rect x="22" y="22" width="1236" height="756" rx="18" fill="none" stroke="#7D8590" stroke-width="2" opacity="0.45"/>
+<circle cx="58" cy="43" r="7" fill="#FF5F57"/><circle cx="82" cy="43" r="7" fill="#FFBD2E"/><circle cx="106" cy="43" r="7" fill="#28C840"/>
+<text x="122" y="50" fill="#7D8590" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Version 2 — Command Deck: main</text>
+<text x="42" y="74" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╭─ terminal.rss ───────────────────────────────────────────────────────────────────╮</text>
+<text x="42" y="100" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">│ / unread from:systems tag:c                                      23 hits  F1 help │</text>
+<text x="42" y="126" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╰──────────────────────────────────────────────────────────────────────────────────╯</text>
+<text x="42" y="152" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="178" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  TIME     FEED             TITLE                                      TAGS</text>
+<text x="42" y="204" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  ─────    ─────────────    ───────────────────────────────────────    ───────────</text>
+<text x="42" y="230" fill="#58A6FF" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">▶ 09:12    Systems Weekly   SQLite 3.51 adds a quieter release cycle    c,builds</text>
+<text x="42" y="256" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  08:40    Beej C Notes     Reading files one line at a time            c,io</text>
+<text x="42" y="282" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  Yesterday RSS Spec Watch  What guid means when links change           rss</text>
+<text x="42" y="308" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  Friday   Personal blogs   Why I still like terminal dashboards        terminal</text>
+<text x="42" y="334" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  Friday   Systems Weekly   A tiny parser, a large responsibility       parsing</text>
+<text x="42" y="360" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="386" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╭─ commands ───────────────────────────────────────────────────────────────────────╮</text>
+<text x="42" y="412" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">│ enter open · e feeds · r refresh · m mark read · : command · q quit              │</text>
+<text x="42" y="438" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╰──────────────────────────────────────────────────────────────────────────────────╯</text>
+</svg>

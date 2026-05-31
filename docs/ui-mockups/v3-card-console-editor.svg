@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+<title id="title">Version 3 — Card Console: editor</title>
+<desc id="desc">Terminal UI mockup screenshot for A softer dashboard-style terminal UI that groups feeds and articles into bordered cards. Screen: editor.</desc>
+<rect width="1280" height="800" rx="24" fill="#171421"/>
+<rect x="22" y="22" width="1236" height="756" rx="18" fill="none" stroke="#B6A6C9" stroke-width="2" opacity="0.45"/>
+<circle cx="58" cy="43" r="7" fill="#FF5F57"/><circle cx="82" cy="43" r="7" fill="#FFBD2E"/><circle cx="106" cy="43" r="7" fill="#28C840"/>
+<text x="122" y="50" fill="#B6A6C9" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Version 3 — Card Console: editor</text>
+<text x="42" y="74" fill="#F8F8F2" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"> terminal.rss / feeds                                      changes not saved yet</text>
+<text x="42" y="100" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╔════════════════════════════════════╗ ╔═══════════════════════════════════════════╗</text>
+<text x="42" y="126" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ Feed cards                         ║ ║ Edit selected feed                       ║</text>
+<text x="42" y="152" fill="#FFB86C" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ ▶ Systems Weekly        11 unread  ║ ║ Name       Systems Weekly                ║</text>
+<text x="42" y="178" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║   Beej C Notes           4 unread  ║ ║ Location   file://samples/systems.xml    ║</text>
+<text x="42" y="204" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║   RSS Spec Watch         2 unread  ║ ║ Tags       c, systems, parsing           ║</text>
+<text x="42" y="230" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║   Personal blogs         6 unread  ║ ║ Enabled    yes                           ║</text>
+<text x="42" y="256" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║   Example Tech RSS       disabled  ║ ║                                           ║</text>
+<text x="42" y="282" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╚════════════════════════════════════╝ ║ Preview validates 18 items; 0 fatal errs. ║</text>
+<text x="42" y="308" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">                                      ╚═══════════════════════════════════════════╝</text>
+<text x="42" y="334" fill="#F8F8F2" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="360" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╔════════════════════════════════════════════════════════════════════════════════════╗</text>
+<text x="42" y="386" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">║ [a] add  [space] toggle  [Enter] edit field  [s] save  [u] undo  [Esc] cancel    ║</text>
+<text x="42" y="412" fill="#B6A6C9" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╚════════════════════════════════════════════════════════════════════════════════════╝</text>
+</svg>

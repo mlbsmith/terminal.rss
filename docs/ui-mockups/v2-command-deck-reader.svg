@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+<title id="title">Version 2 — Command Deck: reader</title>
+<desc id="desc">Terminal UI mockup screenshot for A keyboard-first layout with a command/search bar and compact, high-density lists. Screen: reader.</desc>
+<rect width="1280" height="800" rx="24" fill="#0B0F14"/>
+<rect x="22" y="22" width="1236" height="756" rx="18" fill="none" stroke="#7D8590" stroke-width="2" opacity="0.45"/>
+<circle cx="58" cy="43" r="7" fill="#FF5F57"/><circle cx="82" cy="43" r="7" fill="#FFBD2E"/><circle cx="106" cy="43" r="7" fill="#28C840"/>
+<text x="122" y="50" fill="#7D8590" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Version 2 — Command Deck: reader</text>
+<text x="42" y="74" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╭─ article 1 of 23 ────────────────────────────────────────────────────────────────╮</text>
+<text x="42" y="100" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">│ SQLite 3.51 adds a quieter release cycle                         Systems Weekly │</text>
+<text x="42" y="126" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╰──────────────────────────────────────────────────────────────────────────────────╯</text>
+<text x="42" y="152" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  Published Today 09:12 UTC     Link https://example.test/sqlite-351</text>
+<text x="42" y="178" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="204" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  The release notes are less exciting than the engineering habit they reveal:</text>
+<text x="42" y="230" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  small changes, clear compatibility promises, and boringly repeatable builds.</text>
+<text x="42" y="256" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="282" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  In C, the quiet part of a design is often the ownership model. A reader can</text>
+<text x="42" y="308" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  look minimal while its structs make every allocation and free visible.</text>
+<text x="42" y="334" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="360" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  Trace it:</text>
+<text x="42" y="386" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">    parse_item() -&gt; title pointer -&gt; item.title -&gt; free_item()</text>
+<text x="42" y="412" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="438" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╭─ keys ───────────────────────────────────────────────────────────────────────────╮</text>
+<text x="42" y="464" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">│ j/k scroll · n/p article · b list · y copy link · o browser · q quit             │</text>
+<text x="42" y="490" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╰──────────────────────────────────────────────────────────────────────────────────╯</text>
+</svg>

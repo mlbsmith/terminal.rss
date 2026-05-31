@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+<title id="title">Version 2 — Command Deck: editor</title>
+<desc id="desc">Terminal UI mockup screenshot for A keyboard-first layout with a command/search bar and compact, high-density lists. Screen: editor.</desc>
+<rect width="1280" height="800" rx="24" fill="#0B0F14"/>
+<rect x="22" y="22" width="1236" height="756" rx="18" fill="none" stroke="#7D8590" stroke-width="2" opacity="0.45"/>
+<circle cx="58" cy="43" r="7" fill="#FF5F57"/><circle cx="82" cy="43" r="7" fill="#FFBD2E"/><circle cx="106" cy="43" r="7" fill="#28C840"/>
+<text x="122" y="50" fill="#7D8590" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Version 2 — Command Deck: editor</text>
+<text x="42" y="74" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╭─ feed commands ──────────────────────────────────────────────────────────────────╮</text>
+<text x="42" y="100" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">│ :feed add &lt;path-or-url&gt;   :feed disable 2   :feed tag 1 c,systems   Esc back     │</text>
+<text x="42" y="126" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╰──────────────────────────────────────────────────────────────────────────────────╯</text>
+<text x="42" y="152" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="178" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  #  ON  NAME              LOCATION                                  STATUS</text>
+<text x="42" y="204" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  ─  ──  ──────────────    ───────────────────────────────────────   ─────────────</text>
+<text x="42" y="230" fill="#58A6FF" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">▶ 1  yes Systems Weekly    file://samples/systems-weekly.xml         ok · 11 unread</text>
+<text x="42" y="256" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  2  yes Beej C Notes      file://samples/beej-c.xml                 ok · 4 unread</text>
+<text x="42" y="282" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">  3  no  Example Tech RSS  https://example.com/rss.xml               disabled</text>
+<text x="42" y="308" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="334" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╭─ validation ─────────────────────────────────────────────────────────────────────╮</text>
+<text x="42" y="360" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">│ Selected feed has title, link, and 18 items. Missing descriptions are tolerated. │</text>
+<text x="42" y="386" fill="#7D8590" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">╰──────────────────────────────────────────────────────────────────────────────────╯</text>
+<text x="42" y="412" fill="#E6EDF3" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"></text>
+<text x="42" y="438" fill="#58A6FF" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Question before implementing: should validation mutate feed state, or just report?</text>
+</svg>
